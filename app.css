@@ -3,9 +3,19 @@
     background-repeat: no-repeat;
     margin-bottom: 0rem;
     width: 100%;
+   
 }
 
+details summary::-webkit-details-marker {
+    display:none;
+  }
 
+
+
+.slick-dots{
+    top: 42rem;
+    
+}
 
 #menu{
     background-image: url("./img/light-veneer.png");
